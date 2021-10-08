@@ -1,1 +1,1 @@
-# 37project
+# project-template-kangaroo-2
